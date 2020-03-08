@@ -1,0 +1,24 @@
+Percobaan ke-1 :
+X :
+7 : tipe_transaksi (kategorik) 0
+9 : nilai_transaksi 1
+10 : id_negara (kategorik)
+16 : kuartal_transaksi (kategorik)
+24 : maksimum_nilai_transaksi
+28 : grouped_time (kategorik)
+
+y :
+27 : flag_transaksi_fraud
+
+Percobaan ke-2 :
+
+Percobaan ke-1 :
+X :
+12 : nama_kota (kategorik) 0
+17 : kepemilikan_kartu (kategorik)
+28 : grouped_time (kategorik)
+29 : selisih_transaksi
+
+y :
+27 : flag_transaksi_fraud
+

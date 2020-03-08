@@ -1,0 +1,7 @@
+Percobaan pertama :
+[ lokasi_mesin, nilai_transaksi, id_negara, waktu_transaksi, maksimum_nilai_transaksi]
+
+Percobaan kedua :
+[ grouped_time, nama_kota, selisih_transaksi, kepemilikan_kartu]
+
+X[:, :]

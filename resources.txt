@@ -1,0 +1,3 @@
+https://realpython.com/python-csv/
+https://forum.dataschool.io/
+http://pandas.pydata.org/pandas-docs/stable/visualization.html#visualization-hist
